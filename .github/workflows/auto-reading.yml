@@ -6,7 +6,7 @@ on:
   #   - cron: '55 10 * * *'    # UTC 00:00 = 北京时间 18:35
   #   - cron: '0 12 * * *'     # UTC 12:00 = 北京时间 20:00
   schedule:
-    - cron: '02 17 * * *'
+    - cron: '02 16 * * *'
       timezone: 'Asia/Shanghai'
   
   # 拉取请求触发，用于测试阅读
